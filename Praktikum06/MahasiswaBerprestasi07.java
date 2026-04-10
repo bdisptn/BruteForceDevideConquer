@@ -1,7 +1,7 @@
 package Praktikum06;
 
 public class MahasiswaBerprestasi07 {
-    Mahasiswa07[] listMhs = new Mahasiswa07[5];
+    Mahasiswa07[] listMhs;
     int idx;
 
     MahasiswaBerprestasi07(int kapasitas) {
